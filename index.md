@@ -1,2 +1,0 @@
-
-- [diapo](./mdsource/diapo.html)
