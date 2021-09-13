@@ -1,7 +1,7 @@
-# Module 1
+# Histoire d'Internet
 ---
 
-# Module 2
+![image](./frise_chrono_internet.png )
 --
 ## sous Module 2.1
 --
