@@ -1,5 +1,5 @@
 # Histoire d'Internet
----
+--
 
 ![image](./frise_chrono_internet.png )
 ---
@@ -7,7 +7,7 @@
 ### Vocabulaire
 --
 
-## Internet
+Internet
 --
 
 ## Web
