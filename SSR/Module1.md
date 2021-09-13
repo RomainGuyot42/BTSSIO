@@ -10,15 +10,16 @@
 Internet
 --
 
-## Web
+Web
 --
 
-## Lien Hypertexte
+Lien Hypertexte
 ![image](./Capture.JPG)
 -- 
 
-## Navigateur
+Navigateur
 --
 
-## Moteur de Recherche
+Moteur de Recherche
+
 
