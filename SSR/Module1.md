@@ -1,7 +1,7 @@
 # Histoire d'Internet
 ---
 
-## Repères historiques
+## Reperes historiques
 --
 ![image](./frise_chrono_internet.png )
 ---
