@@ -2,7 +2,18 @@
 ---
 
 ![image](./frise_chrono_internet.png )
+---
+
+### Vocabulaire
 --
-## sous Module 2.1
+## Internet
 --
-## sous Module 2.2
+## Web
+--
+## Lien Hypertexte
+![image](./Capture.JPG)
+-- 
+## Navigateur
+--
+## Moteur de Recherche
+
