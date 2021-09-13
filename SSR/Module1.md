@@ -1,4 +1,4 @@
-# Histoire d'Internet 👋
+# Histoire d'Internet
 ---
 
 ## Repères historiques
@@ -15,7 +15,7 @@ Internet
 Web
 --
 
-Lien Hypertexte
+Lien Hypertexte  
 ![image](./Capture.JPG)
 -- 
 
