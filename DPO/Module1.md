@@ -1,10 +1,10 @@
-# Données à caractère personnel
+# Donnees à caractere personnel
 ---
 
  ## CNIL  
- Commission Nationale de l'Informatique et des Libertés
+ Commission Nationale de l'Informatique et des Libertes
 ---
 
 ## RGPD  
-Règlement Général sur la Protection des Données
+Reglement General sur la Protection des Données
 ---
