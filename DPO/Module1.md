@@ -6,5 +6,5 @@
 ---
 
 ## RGPD  
-Reglement General sur la Protection des Données
+Reglement General sur la Protection des Donnees
 ---
