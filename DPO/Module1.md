@@ -1,4 +1,4 @@
-# Donnees à caractere personnel
+# Donnees a caractere personnel
 ---
 
  ## CNIL  
