@@ -94,3 +94,19 @@ Inconvenient :
 ---
 
 ![image](./Capture.JPG)
+---
+
+# Les types de connexion au reseau
+--
+## Bridge
+--
+
+## NAT
+network address translation 
+--
+
+## Host-Only
+--
+
+##  LAN Segment
+--
