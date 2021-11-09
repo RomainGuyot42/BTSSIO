@@ -94,4 +94,8 @@ Inconvenient :
 - Uniquement sur Windows 10 Professionnel
 ---
 
-
+Contexte | Exemples de cas métiers | Hyperviseur | Profil des utilisateurs de l’hyperviseur
+---: | :---: | :---: | :--- 
+En entreprise ou pour un usage personnel | Tester un OS, Créer un environnement de test, Développer une application et la tester sur différents systèmes | type 2 | 
+ - développeur - ingénieur/administrateur réseau - technicien - profil non technique pour utiliser un outil spécifique
+En entreprise, dans des architectures en production |Créer un serveur, Remplacer des machines physiques par des VM (réduction des coûts), Tests en environnement de pré-production | type 1 | - ingénieur réseaux/cloud - administrateur réseau
