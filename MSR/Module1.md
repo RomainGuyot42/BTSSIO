@@ -57,7 +57,7 @@ Inconvenient :
 --
 
 
-# Outils de virtualisation
+# Quelques hyperviseurs 
 --
 
 ## VirtalBox
@@ -92,4 +92,6 @@ Avantages :
 Inconvenient :
 - Difficile d'utilisation
 - Uniquement sur Windows 10 Professionnel
+---
+
 
