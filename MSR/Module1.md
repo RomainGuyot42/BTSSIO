@@ -12,7 +12,7 @@
 # Les Hyperviseurs
 --
 
-Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs systemes d’exploitation de travailler sur une meme machine physique en meme temps. 
+Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs systemes d exploitation de travailler sur une meme machine physique en meme temps. 
 ---
 
  # Pricipes Fondamentaux
@@ -24,7 +24,7 @@ interferer avec les autres en aucune maniere.
 --
 
 ## La transparence 
-Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du systeme d’exploitation et a fortiori des applications. 
+Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du systeme d exploitation et a fortiori des applications. 
 La transparence implique la compatibilite : toutes les applications peuvent tourner sur un systeme virtualise, et leur fonctionnement n’est en rien modifie.
 ---
 
@@ -32,12 +32,12 @@ La transparence implique la compatibilite : toutes les applications peuvent tour
 --
 
 Avantage :
-Facile a mettre en place elle s'instale comme une application, une fois installe elle de créer des VM indépendantes de l’OS hôte.
+Facile a mettre en place elle s'instale comme une application, une fois installe elle de creer des VM independantes de l’OS hote.
 
 Inconvenient :
 Il est donc considere comme n’importe quelle application et n’a aucune priorité sur les ressources de l’hote. 
 
-Si une application décide soudainement qu’elle a besoin de 95 % des ressources de votre machine pour ouvrir un fichier extrêmement volumineux, votre hyperviseur va se retrouver avec moins de 5 % des ressources pour faire tourner toutes ses VM.
+Si une application decide soudainement qu’elle a besoin de 95 % des ressources de votre machine pour ouvrir un fichier extremement volumineux, votre hyperviseur va se retrouver avec moins de 5 % des ressources pour faire tourner toutes ses VM.
 ---
 
 ## Hyperviseur de Type 1
@@ -48,7 +48,7 @@ Avantages :
 - Plus de probleme de performance 
 - Moins de machine phisique et donc moins de maintenance
 - Gain financier
-- Mutualiser les ressources et réartir les charges
+- Mutualiser les ressources et reartir les charges
 --
 
 Inconvenient :
@@ -93,8 +93,4 @@ Inconvenient :
 - Uniquement sur Windows 10 Professionnel
 ---
 
-Contexte | Exemples de cas métiers | Hyperviseur | Profil des utilisateurs de l’hyperviseur
----: | :---: | :---: | :--- 
-En entreprise ou pour un usage personnel | Tester un OS, Créer un environnement de test, Développer une application et la tester sur différents systèmes | type 2 | 
- - développeur - ingénieur/administrateur réseau - technicien - profil non technique pour utiliser un outil spécifique
-En entreprise, dans des architectures en production |Créer un serveur, Remplacer des machines physiques par des VM (réduction des coûts), Tests en environnement de pré-production | type 1 | - ingénieur réseaux/cloud - administrateur réseau
+![image](./Capture.JPG)
