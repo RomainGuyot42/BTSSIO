@@ -15,6 +15,20 @@
 Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs systèmes d’exploitation de travailler sur une meme machine physique en meme temps. 
 ---
 
+ # Pricipes Fondamentaux
+ --
+ 
+ ## Cloisonnement
+chaque système d’exploitation a un fonctionnement indépendant, et ne peut 
+interferer avec les autres en aucune maniere.
+--
+
+## La transparence 
+Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du 
+système d’exploitation et a fortiori des applications. 
+La transparence implique la compatibilite : toutes les applications peuvent tourner sur un système virtualise, et leur fonctionnement n’est en rien modifie.
+---
+
 ## Hyperviseur de Type 2
 --
 
@@ -29,8 +43,18 @@ Si une application décide soudainement qu’elle a besoin de 95 % des ressource
 
 ## Hyperviseur de Type 1
 --
+Installé directement sur le matériel sans OS intermédiaire. Il a un accès direct au ressource de l'appareil.  
 
+Avantages :
+- Plus de probleme de performance 
+- Moins de machine phisique et donc moins de maintenance
+- Gain financier
+- Mutualiser les ressources et réartir les charges
+--
 
+Inconvenient :
+- Prix de licence souvent eleve
+--
 
 
 # Outils de virtualisation
@@ -68,17 +92,4 @@ Avantages :
 Inconvenient :
 - Difficile d'utilisation
 - Uniquement sur Windows 10 Professionnel
----
- # Pricipes Fondamentaux
- --
- 
- ## Cloisonnement
-chaque système d’exploitation a un fonctionnement indépendant, et ne peut 
-interferer avec les autres en aucune maniere.
---
 
-## La transparence 
-Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du 
-système d’exploitation et a fortiori des applications. 
-La transparence implique la compatibilite : toutes les applications peuvent tourner sur un système virtualise, et leur fonctionnement n’est en rien modifie.
----
