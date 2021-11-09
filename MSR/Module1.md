@@ -53,7 +53,7 @@ Avantages :
 
 Inconvenient :
 - Prix de licence souvent eleve
---
+---
 
 
 # Quelques hyperviseurs 
@@ -67,7 +67,7 @@ Avantages :
 
 Inconvenient :
 - Moins performant
-- Donnees non chiffrees par défaut
+- Donnees non chiffrees par defaut
 --
 
 ## VM Ware
@@ -84,7 +84,7 @@ Inconvenient :
 
 Avantages : 
 - Performant
-- Données chiffrées
+- Donnees chiffrees
 - Deja installe sur W10 Pro
 - Gratuit
 
