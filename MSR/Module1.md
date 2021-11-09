@@ -1,12 +1,12 @@
 # Virtualisation
 ---
 
-# Intérêts de la virtualisation
+# Interets de la virtualisation
 --
 
-- Permet d'utiliser un logiciel sur un OS différent de celui d'origine
-- Faire cohabiter simultanément différents "univers" sur une machine
-- créer différents environnements de développement et/ou de tests spécifiques sur une même et unique machine.
+- Permet d'utiliser un logiciel sur un OS different de celui d'origine
+- Faire cohabiter simultanement différents "univers" sur une machine
+- créer differents environnements de developpement et/ou de tests specifiques sur une meme et unique machine.
 ---
 
 # Outils de virtualisation
@@ -17,7 +17,7 @@ Avantages :
 - Facile d'utilisation
 - Open Source
 
-Inconvénient :
+Inconvenient :
 - Moins performant
 - Données non chiffrées par défaut
 --
@@ -25,22 +25,42 @@ Inconvénient :
 ## VM Ware
 Avantages : 
 - Performant 
-- Données chiffrées
+- Donnees chiffrees
 
 Inconvénient :
-- Certaines foctionalitées sont payante 
+- Certaines foctionalitees sont payante 
 --
 
 ## Hyper V
 Avantages : 
 - Performant
 - Données chiffrées
-- Déjà installé sur W10 Pro
+- Deja installe sur W10 Pro
 - Gratuit
 
 Inconvénient :
--Difficile d'utilisation
+- Difficile d'utilisation
 - Uniquement sur Windows 10 Professionnel
 ---
+ # Pricipes Fondamentaux
+ --
+ 
+ ## Cloisonnement
+chaque système d’exploitation a un fonctionnement indépendant, et ne peut 
+interferer avec les autres en aucune maniere.
+--
 
+## La transparence 
+Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du 
+système d’exploitation et a fortiori des applications. 
+La transparence implique la compatibilite : toutes les applications peuvent tourner sur un système virtualise, et leur fonctionnement n’est en rien modifie.
+---
+
+# Les Hyperviseurs
+--
+
+Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs systèmes d’exploitation de travailler sur une meme machine physique en meme temps. 
+--
+
+## Hyperviseur de Type 1
 
