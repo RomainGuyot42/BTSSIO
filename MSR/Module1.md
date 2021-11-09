@@ -24,6 +24,7 @@ Inconvenient :
 --
 
 ## VM Ware
+
 Avantages : 
 - Performant 
 - Donnees chiffrees
@@ -33,6 +34,7 @@ Inconvenient :
 --
 
 ## Hyper V
+
 Avantages : 
 - Performant
 - Données chiffrées
