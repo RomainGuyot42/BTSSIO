@@ -5,21 +5,22 @@
 --
 
 - Permet d'utiliser un logiciel sur un OS different de celui d'origine
-- Faire cohabiter simultanement différents "univers" sur une machine
-- créer differents environnements de developpement et/ou de tests specifiques sur une meme et unique machine.
+- Faire cohabiter simultanement differents "univers" sur une machine
+- creer differents environnements de developpement et/ou de tests specifiques sur une meme et unique machine.
 ---
 
 # Outils de virtualisation
 --
 
 ## VirtalBox
+
 Avantages : 
 - Facile d'utilisation
 - Open Source
 
 Inconvenient :
 - Moins performant
-- Données non chiffrées par défaut
+- Donnees non chiffrees par défaut
 --
 
 ## VM Ware
@@ -27,7 +28,7 @@ Avantages :
 - Performant 
 - Donnees chiffrees
 
-Inconvénient :
+Inconvenient :
 - Certaines foctionalitees sont payante 
 --
 
@@ -38,7 +39,7 @@ Avantages :
 - Deja installe sur W10 Pro
 - Gratuit
 
-Inconvénient :
+Inconvenient :
 - Difficile d'utilisation
 - Uniquement sur Windows 10 Professionnel
 ---
