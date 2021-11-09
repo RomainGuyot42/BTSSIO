@@ -19,7 +19,7 @@ Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs syste
  --
  
  ## Cloisonnement
-chaque systeme d’exploitation a un fonctionnement independant, et ne peut 
+chaque systeme d exploitation a un fonctionnement independant, et ne peut 
 interferer avec les autres en aucune maniere.
 --
 
@@ -32,17 +32,19 @@ La transparence implique la compatibilite : toutes les applications peuvent tour
 --
 
 Avantage :
-Facile a mettre en place elle s'instale comme une application, une fois installe elle de creer des VM independantes de l’OS hote.
+Facile a mettre en place elle s'instale comme une application, une fois installe elle de creer des VM independantes de l OS hote.
 
 Inconvenient :
-Il est donc considere comme n’importe quelle application et n’a aucune priorité sur les ressources de l’hote. 
+Il est donc considere comme n’importe quelle application et n a aucune priorite sur les ressources de l hote. 
 
 Si une application decide soudainement qu’elle a besoin de 95 % des ressources de votre machine pour ouvrir un fichier extremement volumineux, votre hyperviseur va se retrouver avec moins de 5 % des ressources pour faire tourner toutes ses VM.
 ---
 
 ## Hyperviseur de Type 1
 --
+
 Installe directement sur le materiel sans OS intermediaire. Il a un acces direct au ressource de l'appareil.  
+--
 
 Avantages :
 - Plus de probleme de performance 
