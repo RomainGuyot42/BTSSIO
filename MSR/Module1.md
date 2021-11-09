@@ -12,21 +12,20 @@
 # Les Hyperviseurs
 --
 
-Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs systèmes d’exploitation de travailler sur une meme machine physique en meme temps. 
+Un hyperviseur est une plateforme de virtualisation qui permet a plusieurs systemes d’exploitation de travailler sur une meme machine physique en meme temps. 
 ---
 
  # Pricipes Fondamentaux
  --
  
  ## Cloisonnement
-chaque système d’exploitation a un fonctionnement indépendant, et ne peut 
+chaque systeme d’exploitation a un fonctionnement independant, et ne peut 
 interferer avec les autres en aucune maniere.
 --
 
 ## La transparence 
-Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du 
-système d’exploitation et a fortiori des applications. 
-La transparence implique la compatibilite : toutes les applications peuvent tourner sur un système virtualise, et leur fonctionnement n’est en rien modifie.
+Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du systeme d’exploitation et a fortiori des applications. 
+La transparence implique la compatibilite : toutes les applications peuvent tourner sur un systeme virtualise, et leur fonctionnement n’est en rien modifie.
 ---
 
 ## Hyperviseur de Type 2
@@ -36,14 +35,14 @@ Avantage :
 Facile a mettre en place elle s'instale comme une application, une fois installe elle de créer des VM indépendantes de l’OS hôte.
 
 Inconvenient :
-Il est donc considéré comme n’importe quelle application et n’a aucune priorité sur les ressources de l’hôte. 
+Il est donc considere comme n’importe quelle application et n’a aucune priorité sur les ressources de l’hote. 
 
 Si une application décide soudainement qu’elle a besoin de 95 % des ressources de votre machine pour ouvrir un fichier extrêmement volumineux, votre hyperviseur va se retrouver avec moins de 5 % des ressources pour faire tourner toutes ses VM.
 ---
 
 ## Hyperviseur de Type 1
 --
-Installé directement sur le matériel sans OS intermédiaire. Il a un accès direct au ressource de l'appareil.  
+Installe directement sur le materiel sans OS intermediaire. Il a un acces direct au ressource de l'appareil.  
 
 Avantages :
 - Plus de probleme de performance 
