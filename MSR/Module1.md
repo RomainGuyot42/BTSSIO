@@ -43,14 +43,14 @@ Si une application decide soudainement qu’elle a besoin de 95 % des ressources
 ## Hyperviseur de Type 1
 --
 
-Installe directement sur le materiel sans OS intermediaire. Il a un acces direct au ressource de l'appareil.  
+Installe directement sur le materiel sans OS intermediaire. Il a un acces direct au ressource de l appareil.  
 --
 
 Avantages :
 - Plus de probleme de performance 
 - Moins de machine phisique et donc moins de maintenance
 - Gain financier
-- Mutualiser les ressources et reartir les charges
+- Mutualiser les ressources et repartir les charges
 --
 
 Inconvenient :
