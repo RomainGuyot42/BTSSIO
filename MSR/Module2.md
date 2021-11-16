@@ -43,7 +43,7 @@ Storage Area Network ou reseau de stockage en francais. Cette methode permet de 
  
  Les ressources non utilisees peuvent etre facilement attribuees a un autre serveur ou dediee a une autre utilisation 
  
- L administration est centralisee sur un seul peripherique de stockage. Le technicien n a plus besoin de gerer une multitude de peripheriques independants.
+ L administration est centralisee sur un seul peripherique de stockage. Le technicien n a plus besoin de gerer une multitude de peripheriques.
 --
 
 ## Differences entre NAS et SAN
