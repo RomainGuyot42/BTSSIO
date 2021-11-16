@@ -37,7 +37,7 @@ Network Attached Storage ou serveur de stockage en reseau. Cette methode permet 
 Storage Area Network ou reseau de stockage en francais. Cette methode permet de mutualiser les baies de stockage dans un reseau dedie
 --
 
-## Avantages du NAS et SAN par rapport au DAS
+### Avantages du NAS et SAN par rapport au DAS
 
  L environnement de stockage est evolutif. A tout moment, des ressources peuvent etre ajoutees au fur et a mesure de l augmentation de la demande. 
  
