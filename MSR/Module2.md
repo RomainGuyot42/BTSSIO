@@ -11,7 +11,7 @@ La virtualisation du stockage est de gerer une interface qui permet de dissocier
 
 ### Le stockage en mode fichier
 
-Egalement appele stockage base sur des fichiers : les donnees sont stockees en tant qu element unique d information a l interieur d un dossier, tout comme des documents imprimes que vous rangeriez dans une chemise en carton. Pour que vous puissiez acceder a une donnee, votre ordinateur doit connaitre le chemin a parcourir pour la trouver (et ce chemin peut s'averer long et tortueux.) Les donnees stockees dans des fichiers sont organisees et recuperees à l aide de quelques metadonnees qui indiquent a l ordinateur ou le fichier se trouve. Le systeme fonctionne comme un catalogue de bibliotheque.
+Egalement appele stockage base sur des fichiers : les donnees sont stockees en tant qu element unique d information a l interieur d un dossier, tout comme des documents imprimes ranges dans un carton. Pour que vous puissiez acceder a une donnee, votre ordinateur doit connaitre le chemin a parcourir pour la trouver. Les donnees stockees dans des fichiers sont organisees et recuperees a l aide de quelques metadonnees qui indiquent a l ordinateur ou le fichier se trouve. Le systeme fonctionne comme un catalogue.
 --
 
 ## Le stockage en mode bloc 
