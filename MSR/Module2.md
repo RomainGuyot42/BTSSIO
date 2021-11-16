@@ -65,7 +65,7 @@ Storage Area Network ou reseau de stockage en francais. Cette methode permet de 
 
 - Dans un SAN, le serveur gere le systeme de fichier des espaces de stockage auxquels il a acces. Plusieurs serveurs peuvent acceder a des espaces de stockage sur le meme peripherique. On appelle ces espaces de stockage des LUN.
 
-- Un serveur considere un LUN, sur lequel il est connecte, comme un disque dur local. Par conséquent, l OS du serveur gere le système de fichiers du LUN. Chaque serveur considere l’espace disque d une baie SAN auquel il a acces comme son propre disque dur.
+- Un serveur considere un LUN, sur lequel il est connecte, comme un disque dur local. Par consequent, l OS du serveur gere le systeme de fichiers du LUN. Chaque serveur considere l espace disque d une baie SAN auquel il a acces comme son propre disque dur.
 --
 
 - S il peut y avoir un acces concurrent en lecture sur un LUN, il n y a pas d acces concurrent en ecriture. Par consequent, un seul et unique serveur ecrit des donnees sur un LUN.
