@@ -70,10 +70,7 @@ Storage Area Network ou reseau de stockage en francais. Cette methode permet de 
 
 - S il peut y avoir un acces concurrent en lecture sur un LUN, il n y a pas d acces concurrent en ecriture. Par consequent, un seul et unique serveur ecrit des donnees sur un LUN.
 
-- Un SAN peut etre cable en fibre optique. Des lors, le protocole FC (Fibre Channel)
-permettra d’acceder aux LUN a des debits eleves (16 Gigabits/s). Sur un réseau cable avec des liens cuivres, les protocoles iSCSI (internet SCSI) ou FCoE (Fibre Chanel over Ethernet) sont utilises :
-   iSCSI : les commandes SCSI sont transmises sur TCP/IP
-   FcoE : les trames du protocole Fibre Channel sont transmises sur un reseau Ethernet
+- Un SAN peut etre cable en fibre optique. 
 --
 
 - Dans le cadre d’un SAN en fibre optique, les matériels sont reliés entre eux par un ou plusieurs commutateurs Fibre Channel. On parle de switchs ou de directors. Les directors sont de gros commutateurs de plus de 64 ports, garantissant une disponibilité maximale et une évolutivité par ajout de cartes contenant des ports de connexion.
