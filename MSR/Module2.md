@@ -8,7 +8,7 @@ La virtualisation du stockage est de gerer une interface qui permet de dissocier
 
 ## DAS
 
-Direct-attached storage (ou disque en attachement direct) decrit un type de peripherique de stockage relie directement a un ordinateur et non accessible a d autres ordinateurs ou un serveur. L exemple le plus typique d’un stockage DAS est le disque dur interne d’un ordinateur ou d un serveur.
+Direct-attached storage (ou disque en attachement direct) decrit un type de peripherique de stockage relie directement a un ordinateur et non accessible a d autres ordinateurs ou un serveur. L exemple le plus typique d un stockage DAS est le disque dur interne d un ordinateur ou d un serveur.
 --
 
 ## NAS
