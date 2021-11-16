@@ -23,7 +23,8 @@ Storage Area Network ou réseau de stockage en français. Cette méthode permet 
 
 ## Avantages du NAS et SAN par rapport au DAS
 
- L’environnement de stockage est évolutif. 
- A tout moment, des ressources peuvent être ajoutées au fur et à mesure de l’augmentation de la demande. 
+ L’environnement de stockage est évolutif. A tout moment, des ressources peuvent être ajoutées au fur et à mesure de l’augmentation de la demande. 
+ 
  Les ressources non utilisées peuvent être facilement attribuées à un autre serveur ou dédiée à une autre utilisation 
+ 
  L’administration est centralisée sur un seul périphérique de stockage. Le technicien n’a plus besoin de gérer une multitude de périphériques indépendants.
