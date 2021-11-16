@@ -81,6 +81,6 @@ permettra d’acceder aux LUN a des debits eleves (16 Gigabits/s). Sur un résea
 - Il n’existe pas d’adressage IP dans le cadre d’une utilisation de la fibre optique. Les périphériques sont identifiés et accédés par leur WWN (World Wide Name), WWPN (World Wide Port Name) ou WWNN (World Wide Node Name). Le WWN est l’équivalent de l’adresse MAC pour la carte réseau.
 ---
 
-![image](./Sans titre.png)
+![image](./Titre.png)
 --
 
