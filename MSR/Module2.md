@@ -14,3 +14,7 @@ Direct-attached storage (ou disque en attachement direct) decrit un type de peri
 ## NAS
 
 Network Attached Storage ou serveur de stockage en reseau. Cette methode permet de connecter une baie de stockage sur le reseau au moyen de plusieurs protocoles tels que AFS, CIFS, FTP, NFS, SSH, WebDav. Des peripheriques heterogenes, connectes sur un meme segment reseau, peuvent y acceder a travers une adresse IPv4 ou IPv6.
+--
+
+## SAN
+Storage Area Network ou réseau de stockage en français. Cette méthode permet de mutualiser les baies de stockage dans un réseau dédié
