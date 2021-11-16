@@ -15,3 +15,8 @@ Les Vlans par port associent un port d'un switch à un numero de Vlan. On dit al
 ### VLAN de niveau 2
 
 Egalement appele VLAN MAC, ou MAC Address-Based VLAN. Il consiste a definir un reseau virtuel en fonction des adresses MAC des stations. Ce type de VLAN est beaucoup plus souple que le VLAN par port car le reseau est independant de la localisation de la station.
+--
+
+### VLAN de niveau 3
+
+Les Vlans de niveau 3 permettent de regrouper plusieurs machines suivant le sous reseau auquel elles appartiennent. La mise en place de Vlan de niveau 3 est conditionné par l'utilisation d'un protocole IP
