@@ -6,6 +6,19 @@
 La virtualisation du stockage est de gerer une interface qui permet de dissocier la gestion physique des disques (et des baies de stockage) vis-a-vis des serveurs qui l'utilisent.
 ---
 
+## Les differents modes de stockage
+--
+
+### Le stockage en mode fichier
+
+Egalement appele stockage base sur des fichiers : les donnees sont stockees en tant qu element unique d information à l intérieur d un dossier, tout comme des documents imprimes que vous rangeriez dans une chemise en carton. Pour que vous puissiez acceder à une donnee, votre ordinateur doit connaitre le chemin a parcourir pour la trouver (et ce chemin peut s'averer long et tortueux.) Les donnees stockees dans des fichiers sont organisees et recuperees à l aide de quelques metadonnées qui indiquent à l ordinateur ou le fichier se trouve. Le systeme fonctionne comme un catalogue de bibliotheque.
+--
+
+## Le stockage en mode bloc 
+
+Il rassemble les donnees en blocs qui sont stockes en tant qu elements separes. Chaque bloc de donnees se voit attribuer un identifiant unique, qui permet au systeme de stockage de conserver les petits elements a l emplacement le plus pratique. Cela signifie que certaines donnees peuvent etre stockees dans un environnement Linux, tandis que d autres seront stockees sur une unité Windows.
+---
+
 ## DAS
 
 Direct-attached storage (ou disque en attachement direct) decrit un type de peripherique de stockage relie directement a un ordinateur et non accessible a d autres ordinateurs ou un serveur. L exemple le plus typique d un stockage DAS est le disque dur interne d un ordinateur ou d un serveur.
@@ -23,7 +36,7 @@ Storage Area Network ou reseau de stockage en français. Cette methode permet de
 
 ## Avantages du NAS et SAN par rapport au DAS
 
- L environnement de stockage est evolutif. A tout moment, des ressources peuvent etre ajoutees au fur et a mesure de l’augmentation de la demande. 
+ L environnement de stockage est evolutif. A tout moment, des ressources peuvent etre ajoutees au fur et a mesure de l augmentation de la demande. 
  
  Les ressources non utilisees peuvent etre facilement attribuees a un autre serveur ou dediee a une autre utilisation 
  
