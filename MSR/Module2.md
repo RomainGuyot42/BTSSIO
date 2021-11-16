@@ -73,9 +73,9 @@ Storage Area Network ou reseau de stockage en francais. Cette methode permet de 
 - Un SAN peut etre cable en fibre optique. 
 --
 
-- Dans le cadre d’un SAN en fibre optique, les matériels sont reliés entre eux par un ou plusieurs commutateurs Fibre Channel. On parle de switchs ou de directors. Les directors sont de gros commutateurs de plus de 64 ports, garantissant une disponibilité maximale et une évolutivité par ajout de cartes contenant des ports de connexion.
+- En fibre optique SAN, les materiels sont relies entre eux par un ou plusieurs commutateurs Fibre Channel. On parle de switchs ou de directors. Ils sont de gros commutateurs de plus de 64 ports, garantissant une disponibilité maximale et une évolutivité.
 
-- Il n’existe pas d’adressage IP dans le cadre d’une utilisation de la fibre optique. Les périphériques sont identifiés et accédés par leur WWN (World Wide Name), WWPN (World Wide Port Name) ou WWNN (World Wide Node Name). Le WWN est l’équivalent de l’adresse MAC pour la carte réseau.
+- Il n existe pas d’adressage IP dans le cadre d’une utilisation de la fibre optique. Les péripheriques sont identifies et accedes par leur WWN (World Wide Name), WWPN (World Wide Port Name) ou WWNN (World Wide Node Name). Le WWN est l equivalent de l adresse MAC.
 ---
 
 ![image](./Titre.png)
