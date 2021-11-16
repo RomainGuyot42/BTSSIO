@@ -61,7 +61,9 @@ Storage Area Network ou reseau de stockage en francais. Cette methode permet de 
 
 - Un partage peut etre multi-protocolaire. 
 --
+
 ## SAN
+--
 
 - Dans un SAN, le serveur gere le systeme de fichier des espaces de stockage auxquels il a acces. Plusieurs serveurs peuvent acceder a des espaces de stockage sur le meme peripherique. On appelle ces espaces de stockage des LUN.
 
@@ -73,9 +75,9 @@ Storage Area Network ou reseau de stockage en francais. Cette methode permet de 
 - Un SAN peut etre cable en fibre optique. 
 --
 
-- En fibre optique SAN, les materiels sont relies entre eux par un ou plusieurs commutateurs Fibre Channel. On parle de switchs ou de directors. Ils sont de gros commutateurs de plus de 64 ports, garantissant une disponibilité maximale et une évolutivité.
+- En fibre optique SAN, les materiels sont relies entre eux par un ou plusieurs commutateurs Fibre Channel. On parle de switchs ou de directors. Ils sont de gros commutateurs de plus de 64 ports, garantissant une disponibilite maximale et une evolutivite.
 
-- Il n existe pas d’adressage IP dans le cadre d’une utilisation de la fibre optique. Les péripheriques sont identifies et accedes par leur WWN (World Wide Name), WWPN (World Wide Port Name) ou WWNN (World Wide Node Name). Le WWN est l equivalent de l adresse MAC.
+- Il n existe pas d adressage IP dans le cadre d une utilisation de la fibre optique. Les peripheriques sont identifies et accedes par leur WWN (World Wide Name), WWPN (World Wide Port Name) ou WWNN (World Wide Node Name). Le WWN est l equivalent de l adresse MAC.
 ---
 
 ![image](./Titre.png)
