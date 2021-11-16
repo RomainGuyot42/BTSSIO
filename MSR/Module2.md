@@ -19,6 +19,9 @@ Egalement appele stockage base sur des fichiers : les donnees sont stockees en t
 Il rassemble les donnees en blocs qui sont stockes en tant qu elements separes. Chaque bloc de donnees se voit attribuer un identifiant unique, qui permet au systeme de stockage de conserver les petits elements a l emplacement le plus pratique. Cela signifie que certaines donnees peuvent etre stockees dans un environnement Linux, tandis que d autres seront stockees sur une unité Windows.
 ---
 
+## Les technologies
+--
+
 ## DAS
 
 Direct-attached storage (ou disque en attachement direct) decrit un type de peripherique de stockage relie directement a un ordinateur et non accessible a d autres ordinateurs ou un serveur. L exemple le plus typique d un stockage DAS est le disque dur interne d un ordinateur ou d un serveur.
