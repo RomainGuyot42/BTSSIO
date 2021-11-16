@@ -8,7 +8,7 @@ La virtualisation du stockage est de gerer une interface qui permet de dissocier
 
 ## DAS
 
-Direct-attached storage (ou disque en attachement direct) decrit un type de peripherique de stockage relie directement a un ordinateur et non accessible a d’autres ordinateurs ou un serveur. L’exemple le plus typique d’un stockage DAS est le disque dur interne d’un ordinateur ou d’un serveur.
+Direct-attached storage (ou disque en attachement direct) decrit un type de peripherique de stockage relie directement a un ordinateur et non accessible a d autres ordinateurs ou un serveur. L exemple le plus typique d’un stockage DAS est le disque dur interne d’un ordinateur ou d un serveur.
 --
 
 ## NAS
@@ -23,8 +23,8 @@ Storage Area Network ou reseau de stockage en français. Cette methode permet de
 
 ## Avantages du NAS et SAN par rapport au DAS
 
- L’environnement de stockage est evolutif. A tout moment, des ressources peuvent etre ajoutees au fur et a mesure de l’augmentation de la demande. 
+ L environnement de stockage est evolutif. A tout moment, des ressources peuvent etre ajoutees au fur et a mesure de l’augmentation de la demande. 
  
- Les ressources non utilisees peuvent etre facilement attribuees à un autre serveur ou dediee à une autre utilisation 
+ Les ressources non utilisees peuvent etre facilement attribuees a un autre serveur ou dediee a une autre utilisation 
  
- L’administration est centralisee sur un seul peripherique de stockage. Le technicien n’a plus besoin de gerer une multitude de peripheriques independants.
+ L administration est centralisee sur un seul peripherique de stockage. Le technicien n a plus besoin de gerer une multitude de peripheriques independants.
