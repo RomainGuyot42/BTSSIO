@@ -19,4 +19,4 @@ Egalement appele VLAN MAC, ou MAC Address-Based VLAN. Il consiste a definir un r
 
 ### VLAN de niveau 3
 
-Les Vlans de niveau 3 permettent de regrouper plusieurs machines suivant le sous reseau auquel elles appartiennent. La mise en place de Vlan de niveau 3 est conditionné par l'utilisation d'un protocole IP
+Les Vlans de niveau 3 permettent de regrouper plusieurs machines suivant le sous reseau auquel elles appartiennent. La mise en place de Vlan de niveau 3 est conditionne par l'utilisation d'un protocole IP
