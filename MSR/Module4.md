@@ -22,4 +22,9 @@ Les utilisateurs peuvent y acceder depuis n importe quel appareil connecte et n 
 
 ## Inconvenients
 
-Les entreprises doivent compter sur des vendeurs externes pour fournir des logiciels, maintenir ces logiciels, proposer une facturation détaillee et garantir un environnement securise pour les donnees de l’entreprise
+Les entreprises doivent compter sur des vendeurs externes pour fournir des logiciels, maintenir ces logiciels, proposer une facturation detaillee et garantir un environnement securise pour les donnees de l entreprise
+---
+
+## IaaS
+L infrastructure as a service (IaaS1) ou infrastructure en tant que service est un modele de cloud computing 
+Il s agit de societes mettant a disposition des ressources d infrastructure mutualisees et localisees dans des Data Center distants telles que des ressources de stockage de calcul ou encore de puissance machine.
