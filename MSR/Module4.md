@@ -13,7 +13,7 @@ Il s agit de societes mettant a disposition des ressources d infrastructure mutu
 --
 
 ## Avantage
-Les plateformes IaaS offrent des ressources hautement scalables, pouvant être ajustees sur demande en fonction des besoins de l utilisateur. Les IaaS sont donc optimales pour les charges de travail temporaires, experimentales ou soumises a des changements inattendus.
+Les plateformes IaaS offrent des ressources hautement scalables, pouvant etre ajustees sur demande en fonction des besoins de l utilisateur. Les IaaS sont donc optimales pour les charges de travail temporaires, experimentales ou soumises a des changements inattendus.
 --
 
 ## Inconvenient
@@ -22,15 +22,15 @@ Plus grand niveau de competances pour la mise en place.
 
 ## PaaS
 La Plateforme en tant que Service est un modele de Cloud Computing. 
-Ils sont specialises dans les plateformes de developpement en mode cloud. La plateforme est hebergee et mise à disposition dans un environnement de production pour les developpements. C'est une plateforme d'execution pour les logiciels.
+Ils sont specialises dans les plateformes de developpement en mode cloud. La plateforme est hebergee et mise a disposition dans un environnement de production pour les developpements. C'est une plateforme d'execution pour les logiciels.
 --
 
 ## Avantage
-Le fournisseur de PaaS prend en charge toute la partie informatique et logicielle. Les utilisateurs n ont qu’a se connecter et commencer a utiliser la plateforme, generalement via l interface d un navigateur web.
+Le fournisseur de PaaS prend en charge toute la partie informatique et logicielle. Les utilisateurs n ont qu a se connecter et commencer a utiliser la plateforme, generalement via l interface d un navigateur web.
 --
 
 ## Inconvenient
-L utilisateur depend fortement de l infrastructure et du logiciel du fournisseur. Par conséquent, il peut se retrouver lie à un vendeur particulier sans possibilite d en changer. Par ailleurs, les eventuelles pannes ou les changements de developpement d un fournisseur peuvent compromettre les projets des utilisateurs. Si un fournisseur cesse de prendre en charge un langage de programmation particulier, les utilisateurs seront eux aussi forces de changer de langage, ou de faire appel à un autre fournisseur.
+L utilisateur depend fortement de l infrastructure et du logiciel du fournisseur. Par consequent, il peut se retrouver lie a un vendeur particulier sans possibilite d en changer. Par ailleurs, les eventuelles pannes ou les changements de developpement d un fournisseur peuvent compromettre les projets des utilisateurs. Si un fournisseur cesse de prendre en charge un langage de programmation particulier, les utilisateurs seront eux aussi forces de changer de langage, ou de faire appel a un autre fournisseur.
 ---
 
 ## SaaS
