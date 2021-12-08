@@ -25,3 +25,14 @@ Il est possible pour un programme malicieux d affecter la charge d une machine v
 --
 
 Un programme execute sur une machine hote peut effectuer des actions sur le systeme lui-meme, voire en prendre le controle. Ce type de vulnerabilite est particulierement critique.
+---
+
+## Reduire les risques
+
+Doit etre determiner les services a virtualiser en integrant dans sa reflexion :
+- L analyse des risques pour chaque application 
+- Chaque service concerne 
+- L interdependance avec l infrastructure existante
+- L impact d un dysfonctionnement ou de l arret du serveur hote.
+- Etablir une politique des privileges, definir les processus et rediger les procedures sont indispensables. 
+- Il faut aussi informer et former le personnel.
