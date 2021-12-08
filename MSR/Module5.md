@@ -22,3 +22,6 @@ Il lui serait aussi possible de supprimer purement et simplement, tout ou partie
 ---
 
 Il est possible pour un programme malicieux d affecter la charge d une machine virtuelle et d impacter l ensemble des performances des differentes machines.
+--
+
+Un programme execute sur une machine hote peut effectuer des actions sur le systeme lui-meme, voire en prendre le controle. Ce type de vulnerabilite est particulierement critique.
