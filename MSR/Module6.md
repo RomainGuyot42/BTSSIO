@@ -6,7 +6,7 @@ Les conteneurs constituent une forme de virtualisation du systeme d exploitation
 
 ## Les differences avec une VM
 
-Le Le conteneur fournit une virtualisation au niveau du systeme d'exploitation lorsque la machine virtuelle, fournit la virtualisation au niveau du materiel.
+Le conteneur fournit une virtualisation au niveau du systeme d'exploitation lorsque la machine virtuelle, fournit la virtualisation au niveau du materiel.
 --
 
 Un conteneur est une alternative legere a la virtualisation complete de la machine qui implique d encapsuler une application avec son propre environnement d exploitation. Une machine virtuelle (VM) est un système d'exploitation (OS), qui imite un matériel dédié..
@@ -18,3 +18,4 @@ Container reduit
 - les ressources de gestion IP
 - réduit et simplifie les mises à jour de sécurité
 - nécessite un minimum de code pour transférer, migrer et télécharger des charges de travail. 
+
