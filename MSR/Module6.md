@@ -16,6 +16,6 @@ Un conteneur est une alternative legere a la virtualisation complete de la machi
 
 Container reduit 
 - les ressources de gestion IP
-- reduit et simplifie les mises a jour de sécurite
+- reduit et simplifie les mises a jour de securite
 - necessite un minimum de code pour transferer, migrer et telecharger des charges de travail. 
 
