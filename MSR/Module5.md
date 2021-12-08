@@ -12,3 +12,6 @@ La virtualisation entraine une augmentation des risques de securite informatique
 ## Securite des acces
 
 Le fait qu il soit beaucoup plus facile d etablir une connection entre des VM, presente un risque supplementaire en cas d erreur ou de malveillance de configuration.
+--
+
+La console est une machine virtuelle, particulierement sensible puisque les operations executees peuvent impacter l ensemble des VM supportees. Il est donc indispensable d'en controler parfaitement les acces. Des accès illicites seraient lourds de consequences !
