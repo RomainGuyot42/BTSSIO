@@ -25,7 +25,7 @@ interferer avec les autres en aucune maniere.
 
 ## La transparence 
 Le fait de fonctionner en mode virtualise ne change rien au fonctionnement du systeme d exploitation et a fortiori des applications. 
-La transparence implique la compatibilite : toutes les applications peuvent tourner sur un systeme virtualise, et leur fonctionnement n’est en rien modifie.
+La transparence implique la compatibilite : toutes les applications peuvent tourner sur un systeme virtualise, et leur fonctionnement n est en rien modifie.
 ---
 
 ## Hyperviseur de Type 2
