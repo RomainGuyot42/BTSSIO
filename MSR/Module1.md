@@ -32,12 +32,12 @@ La transparence implique la compatibilite : toutes les applications peuvent tour
 --
 
 Avantage :
-Facile a mettre en place elle s'instale comme une application, une fois installe elle de creer des VM independantes de l OS hote.
+Facile a mettre en place il s'instale comme une application, une fois installee il de creer des VM independantes de l OS hote.
 
 Inconvenient :
 Il est donc considere comme n’importe quelle application et n a aucune priorite sur les ressources de l hote. 
 
-Si une application decide soudainement qu’elle a besoin de 95 % des ressources de votre machine pour ouvrir un fichier extremement volumineux, votre hyperviseur va se retrouver avec moins de 5 % des ressources pour faire tourner toutes ses VM.
+Si une application decide soudainement qu elle a besoin de 95 % des ressources de votre machine pour ouvrir un fichier extremement volumineux, votre hyperviseur va se retrouver avec moins de 5 % des ressources pour faire tourner toutes ses VM.
 ---
 
 ## Hyperviseur de Type 1
@@ -48,7 +48,7 @@ Installe directement sur le materiel sans OS intermediaire. Il a un acces direct
 
 Avantages :
 - Plus de probleme de performance 
-- Moins de machine phisique et donc moins de maintenance
+- Moins de machine physique et donc moins de maintenance
 - Gain financier
 - Mutualiser les ressources et repartir les charges
 --
